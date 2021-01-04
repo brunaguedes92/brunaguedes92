@@ -3,6 +3,9 @@
 💻 I'm currently having fun with
   web development ☕💎
  and data science 🐍
+ 
+ [brunaguedes.dev](https://brunaguedes.dev/)
+ 
 
 <!--
 **brunaguedes92/brunaguedes92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

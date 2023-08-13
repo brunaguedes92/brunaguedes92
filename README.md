@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-💻 I'm currently having fun with
-  web development 💎
- and data science 🐍
+💻 I'm currently having fun with data science 🐍
  
  [brunaguedes.dev](https://brunaguedes.dev/)
  
